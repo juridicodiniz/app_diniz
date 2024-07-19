@@ -1,3 +1,5 @@
 https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-InfoJurCLIENTES/app-InfoJurCLIENTES.apk
 
 https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-cti-ifes/app-cti-ifes.apk
+https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-cti-ifes/output-metadata.json.json
+
