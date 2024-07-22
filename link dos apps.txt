@@ -1,0 +1,22 @@
+app-InfoJurCLIENTES
+https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-InfoJurCLIENTES/app-InfoJurCLIENTES.apk
+https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-InfoJurCLIENTES/version.json
+
+app-cti-ifes:
+https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-cti-ifes/app-cti-ifes.apk
+https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-cti-ifes/version.json
+
+Configurar versão no Android Studio: 
+Arquivo:  No item Gradle Scripts: app/build.gradle
+build.gradle
+
+
+defaultConfig {
+        applicationId "co.tiagoaguiar.app_cti_ifes_serra"
+        minSdk 21
+        targetSdk 32
+        versionCode 1
+---->   versionName "2.0" 
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
