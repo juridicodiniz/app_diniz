@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "co.tiagoaguiar.app_cti_ifes_serra",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.60",
+      "outputFile": "app-cti-ifes_v-1.60.apk"
+    }
+  ],
+  "elementType": "File"
+}
